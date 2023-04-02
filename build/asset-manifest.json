@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14bd20c4.css",
+    "main.js": "/static/js/main.97bf42ac.js",
+    "static/js/787.5f50104d.chunk.js": "/static/js/787.5f50104d.chunk.js",
+    "static/media/project-lane.jpg": "/static/media/project-lane.ed0ee8764f0bcf2ba0f5.jpg",
+    "static/media/project-news.jpg": "/static/media/project-news.0d6624cf4833672858fb.jpg",
+    "static/media/header-img.png": "/static/media/header-img.e868da9be1a45509df40.png",
+    "static/media/project-music.jpg": "/static/media/project-music.c2624ba84d6cb28440a1.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.d42042db1e04228b4783.pdf",
+    "static/media/me.jpg": "/static/media/me.fa4cd9a155fe005fd864.jpg",
+    "static/media/project-society.png": "/static/media/project-society.30446c3db68582b649bd.png",
+    "static/media/project-text.png": "/static/media/project-text.494ed9d08e3f2b8cfbc5.png",
+    "static/media/bg-texture.png": "/static/media/bg-texture.0dc0248a94662fa2129c.png",
+    "index.html": "/index.html",
+    "main.14bd20c4.css.map": "/static/css/main.14bd20c4.css.map",
+    "main.97bf42ac.js.map": "/static/js/main.97bf42ac.js.map",
+    "787.5f50104d.chunk.js.map": "/static/js/787.5f50104d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14bd20c4.css",
+    "static/js/main.97bf42ac.js"
+  ]
+}
